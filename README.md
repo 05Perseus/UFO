@@ -12,7 +12,7 @@
 4. Country: the country in which the event happened
 5. Shape: the shape of the sighting
 
-![Site Image](https://github.com/05Perseus/UFO_Analysis/blob/main/Resources/filterimage.png)
+![Site Image](https://github.com/05Perseus/UFO_Analysis/blob/main/filterimage.png)
 
 
 
